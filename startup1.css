@@ -1,0 +1,31 @@
+h2
+{
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	border: 2px solid rgba(255,0,0,0.2);
+}
+h1
+{
+	text-align: center;
+	color: rgba(178,9,9,0.9);
+	border: 1px solid rgba(0,0,255,0.5);
+	background: rgba(0,0,0,0.3);
+
+
+}
+img
+{
+	float: right;
+	flex-wrap: wrap;
+	transition: all 1s;
+
+}
+img: hover
+{
+	transform: scale(1.1);
+}
+body
+{
+	background: rgba(130,200,255,0.5);
+}
